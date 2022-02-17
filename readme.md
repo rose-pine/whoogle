@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Whoogle</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,23 +13,26 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Go to Configuration and scroll to the bottom
+2. Under custom css, paste the contents of `whoogle.css`
+3. Hit the <kbs>Apply</kbd> button
+4. Select the dark theme for Rosé Pine and the light theme for Rosé Pine Dawn 
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+### Rosé Pine
+
+![image](https://user-images.githubusercontent.com/44733677/154574596-bd1ea3fb-7a8c-4cca-bab2-afa09e4b173c.png)
+
+![image](https://user-images.githubusercontent.com/44733677/154574520-daca4642-b58e-4ddb-ba26-c185fee39895.png)
+
+### Rosé Pine Dawn
+
+![image](https://user-images.githubusercontent.com/44733677/154574901-793b6c05-e5df-4f54-baed-d38d211881bb.png)
+
+![image](https://user-images.githubusercontent.com/44733677/154574958-485899b9-e25d-4df6-bdd4-eb8a63fbbfe8.png)
+
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [ThatOneCalculator](https://github.com/thatonecalculator)
