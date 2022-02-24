@@ -15,6 +15,8 @@ Featured on the [official Whoogle Wiki!](https://github.com/benbusby/whoogle-sea
 
 ## Usage
 
+### As an instance user:
+
 Use the public instance: https://gowogle.voring.me/
 
 Or
@@ -23,6 +25,10 @@ Or
 2. Under custom css, paste the contents of `whoogle.css`
 3. Hit the <kbs>Apply</kbd> button
 4. Select the dark theme for Rosé Pine and the light theme for Rosé Pine Dawn 
+
+### As an instance host:
+
+Add the contents of `whoogle.env` to either your environment variables or your `whoogle.env`.
 
 ## Gallery
 
