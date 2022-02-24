@@ -11,7 +11,13 @@
     </a>
 </p>
 
+Featured on the [official Whoogle Wiki!](https://github.com/benbusby/whoogle-search/wiki/User-Contributed-CSS-Themes#ros%C3%A9-pine-by-thatonecalculator----screenshots-httpsgithubcomrose-pinewhoogle)
+
 ## Usage
+
+Use the public instance: https://gowogle.voring.me/
+
+Or
 
 1. Go to Configuration and scroll to the bottom
 2. Under custom css, paste the contents of `whoogle.css`
@@ -21,6 +27,8 @@
 ## Gallery
 
 ### Rosé Pine
+
+As seen on https://gowogle.voring.me/
 
 ![image](https://user-images.githubusercontent.com/44733677/154574596-bd1ea3fb-7a8c-4cca-bab2-afa09e4b173c.png)
 
